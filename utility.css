@@ -1,0 +1,49 @@
+.border{
+    border: 2px solid red;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+/* .svgColor path,
+.svgColor circle{
+    stroke: white;
+    
+
+} */
+
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: #1f1f1f;
+}
+
+.rounded{
+    border: 7px;
+}
+
+.m-1{
+    margin: 5px;
+}
+
+.p-1{
+    padding: 10px;
+}
